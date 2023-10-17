@@ -10,6 +10,7 @@
     "Degree_course" : "Mechatronics",
     "Type_of_degree" : "Under graduate",
     "Degree_completion_year" : 2017,
+    "_Degree_graduation_grade_percentage" : "89.5%",
     "Type_of_job_roles" : [["Software Engineer", "EmbeddedUR"],["Qualitiy tester", "NFK automobiles"],["PLC automation","Equara systems"],["Automation specialist","Amazon Development Centre"]],
     "Current_job_role" : ["Automation specialist","Amazon Development Centre"],
     "years_of_experience" : {
